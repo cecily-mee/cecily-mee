@@ -28,6 +28,7 @@ Postman API Fundamentals Student Expert
 
 
 🤝 Let’s Collaborate!
-I’m always up for a challenge and love working with people on exciting projects. Feel free to connect with me on LinkedIn or check out my GitHub. Let’s build something amazing together!
+I’m always up for a challenge and love working with people on exciting projects. Feel free to connect with me through email cecilyambooken126@gmail.com
+
 
 
