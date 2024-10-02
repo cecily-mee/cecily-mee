@@ -7,13 +7,17 @@ I’m passionate about coding, solving problems, and bringing ideas to life with
 
 
 💻 Projects
+
 CV-Ranker
+
 An AI-powered resume shortlisting system to rank resumes based on HR-assigned scores. Built with Python, Scikit-learn, and more.
 
 Online Voting System
+
 Secure and efficient online voting platform for college elections using PHP and MySQL.
 
 WorkeX
+
 A job portal with JWT authentication, MongoDB, and a slick React frontend.
 
 🎯 Certifications
