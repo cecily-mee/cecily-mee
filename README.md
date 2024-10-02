@@ -23,6 +23,7 @@ A job portal with JWT authentication, MongoDB, and a slick React frontend.
 🎯 Certifications
 
 Supervised Machine Learning - Classification and Regression (Andrew Ng | Coursera)
+
 Postman API Fundamentals Student Expert
 
 
