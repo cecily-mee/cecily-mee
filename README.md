@@ -1,7 +1,7 @@
-                                                                            Hi there! 👋 
+Hi there
 
 
-                                         🎓 Third-year B.Tech Student | Information Technology and Business Informatics @ IIIT Allahabad
+Third-year B.Tech Student | Information Technology and Business Informatics @ IIIT Allahabad
 
 I’m passionate about coding, solving problems, and bringing ideas to life with tech! Currently diving into full-stack development, machine learning, and cloud computing. When I’m not coding, you can find me at the ping pong table! 🏓
 
