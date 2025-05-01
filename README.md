@@ -23,16 +23,7 @@ I’m passionate about coding, solving problems, and bringing ideas to life with
 
 ---
 
-### 💻 Projects
 
-- **[CV-Ranker](https://github.com/cecily-mee/CV-ranking)**  
-  An AI-powered resume shortlisting system to rank resumes based on HR-assigned scores. Built with Python, Scikit-learn, and more.
-
-- **[Online Voting System](https://github.com/Rishab-Bo/Voting-Management-System)**  
-  Secure and efficient online voting platform for college elections using PHP and MySQL.
-
-- **[WorkeX](https://github.com/rakim-0/Job-Portal)**  
-  A job portal with JWT authentication, MongoDB, and a slick React frontend.
 
 ---
 
@@ -42,16 +33,8 @@ I’m passionate about coding, solving problems, and bringing ideas to life with
 
 ---
 
-### 🎉 A Bit More About Me:
-
-- **Table Tennis Enthusiast!** 🏓 (Team Captain, National player, Gold medalist at inter-IIIT competition!)
-- **Tech Event Organizer** 🎤 (Helped run hackathons and pitch events, leading with passion at IIIT-A’s e-cell)
-- **Always Learning** 🧠 (Whether it’s tech or table tennis, I’m always eager to grow and improve!)
-
----
-
 ### 🤝 Let’s Collaborate!  
-I’m always up for a challenge and love working with people on exciting projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cecilyambooken/) or check out my [GitHub](https://github.com/cecily-mee). Let’s build something amazing together!
+I’m always up for a challenge and love working with people on exciting projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cecilyambooken/) or check out my [GitHub](https://github.com/cecily-mee). 
 
 
 
